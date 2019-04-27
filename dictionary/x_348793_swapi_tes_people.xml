@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="people" max_length="40" name="x_348793_swapi_tes_people" type="collection">
+        <element label="Hair color" max_length="40" name="hair_color" type="string"/>
+        <element label="height" max_length="40" name="height" type="integer"/>
+        <element label="mass" max_length="40" name="mass" type="integer"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
