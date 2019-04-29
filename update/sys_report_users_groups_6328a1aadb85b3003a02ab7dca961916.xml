@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Pie on people table by hair_color created by sachin whiteman : 2019-04-29 02:49:37">e328a1aadb85b3003a02ab7dca961915</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-29 09:50:04</sys_created_on>
+        <sys_id>6328a1aadb85b3003a02ab7dca961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e328a1aadb85b3003a02ab7dca961915</sys_name>
+        <sys_package display_value="swapi tester" source="x_348793_swapi_tes">1d8486a9db4133003a02ab7dca961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="swapi tester">1d8486a9db4133003a02ab7dca961901</sys_scope>
+        <sys_update_name>sys_report_users_groups_6328a1aadb85b3003a02ab7dca961916</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-29 09:50:04</sys_updated_on>
+        <user_id display_value="sachin whiteman ">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+</record_update>
