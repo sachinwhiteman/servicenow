@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Workflow Operations Dashboard">2db7734edb0973003a02ab7dca96190e</legacy_page>
+        <name>PA Workflow Operations Dashboard</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-28 07:00:12</sys_created_on>
+        <sys_id>a5b7734edb0973003a02ab7dca96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Workflow Operations Dashboard</sys_name>
+        <sys_package display_value="swapi tester" source="x_348793_swapi_tes">1d8486a9db4133003a02ab7dca961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="swapi tester">1d8486a9db4133003a02ab7dca961901</sys_scope>
+        <sys_update_name>sys_grid_canvas_a5b7734edb0973003a02ab7dca96190f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-28 07:00:12</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

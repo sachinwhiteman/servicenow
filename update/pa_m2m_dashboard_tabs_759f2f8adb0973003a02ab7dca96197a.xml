@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="incident dashboard">7a1eaf4adb0973003a02ab7dca9619a6</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-28 06:24:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>759f2f8adb0973003a02ab7dca96197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7a1eaf4adb0973003a02ab7dca9619a6</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="swapi tester" source="x_348793_swapi_tes">1d8486a9db4133003a02ab7dca961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="swapi tester">1d8486a9db4133003a02ab7dca961901</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_759f2f8adb0973003a02ab7dca96197a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-28 06:24:44</sys_updated_on>
+        <tab display_value="New Tab">b59f2f8adb0973003a02ab7dca961978</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

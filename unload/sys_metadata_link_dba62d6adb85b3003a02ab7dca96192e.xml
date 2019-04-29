@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>11ef1526db85b3003a02ab7dca9619a2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_348793_swapi_tes_people">
+    <x_348793_swapi_tes_people action="INSERT_OR_UPDATE">
+        <hair_color>black</hair_color>
+        <height>160</height>
+        <mass>55</mass>
+        <name>sachin</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-29 09:14:08</sys_created_on>
+        <sys_id>11ef1526db85b3003a02ab7dca9619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-29 09:14:08</sys_updated_on>
+    </x_348793_swapi_tes_people>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-29 09:43:29</sys_created_on>
+        <sys_id>dba62d6adb85b3003a02ab7dca96192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sachin</sys_name>
+        <sys_package display_value="swapi tester" source="x_348793_swapi_tes">1d8486a9db4133003a02ab7dca961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="swapi tester">1d8486a9db4133003a02ab7dca961901</sys_scope>
+        <sys_update_name>sys_metadata_link_dba62d6adb85b3003a02ab7dca96192e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-29 09:43:29</sys_updated_on>
+        <tablename>x_348793_swapi_tes_people</tablename>
+    </sys_metadata_link>
+</record_update>
