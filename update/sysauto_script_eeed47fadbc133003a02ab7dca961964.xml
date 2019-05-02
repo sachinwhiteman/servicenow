@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <name>jp test</name>
+        <run_as display_value="sachin whiteman ">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period>1970-01-01 00:00:10</run_period>
+        <run_start>2019-04-30 11:53:03</run_start>
+        <run_time>1970-01-01 08:00:00</run_time>
+        <run_type>periodically</run_type>
+        <script><![CDATA[try { 
+ var r = new sn_ws.RESTMessageV2('x_348793_swapi_tes.JP', 'Default GET');
+ r.setStringParameterNoEscape('purchase_url', 'https://www.amazon.com/dp/B0784Z8YQK');
+
+//override authentication profile 
+//authentication type ='basic'/ 'oauth2'
+//r.setAuthenticationProfile(authentication type, profile name);
+
+//set a MID server name if one wants to run the message on MID
+//r.setMIDServer('MY_MID_SERVER');
+
+//if the message is configured to communicate through ECC queue, either
+//by setting a MID server or calling executeAsync, one needs to set skip_sensor
+//to true. Otherwise, one may get an intermittent error that the response body is null
+//r.setEccParameter('skip_sensor', true);
+
+ var response = r.execute();
+ var responseBody = response.getBody();
+ var httpStatus = response.getStatusCode();
+}
+catch(ex) {
+ var message = ex.message;
+}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-30 11:54:25</sys_created_on>
+        <sys_id>eeed47fadbc133003a02ab7dca961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jp test</sys_name>
+        <sys_package display_value="swapi tester" source="x_348793_swapi_tes">1d8486a9db4133003a02ab7dca961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="swapi tester">1d8486a9db4133003a02ab7dca961901</sys_scope>
+        <sys_update_name>sysauto_script_eeed47fadbc133003a02ab7dca961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-30 11:54:25</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

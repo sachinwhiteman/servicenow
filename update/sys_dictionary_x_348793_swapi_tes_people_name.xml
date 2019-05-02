@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-04-26 09:23:00</sys_created_on>
-        <sys_id>0407a5aadb85b3003a02ab7dca96199b</sys_id>
+        <sys_id>eedbceeadb09b3003a02ab7dca96195c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>name</sys_name>
         <sys_package display_value="swapi tester" source="x_348793_swapi_tes">1d8486a9db4133003a02ab7dca961901</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="swapi tester">1d8486a9db4133003a02ab7dca961901</sys_scope>
         <sys_update_name>sys_dictionary_x_348793_swapi_tes_people_name</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-04-29 09:44:56</sys_updated_on>
+        <sys_updated_on>2019-04-29 12:25:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="price_dummy_data" max_length="40" name="x_348793_swapi_tes_price_dummy_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_hair_color" label="Hair color" max_length="40" name="u_hair_color" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_height" label="Height" max_length="40" name="u_height" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_mass" label="Mass" max_length="40" name="u_mass" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_name" label="Name" max_length="40" name="u_name" type="string"/>
+    </element>
+</database>

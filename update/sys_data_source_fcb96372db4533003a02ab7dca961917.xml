@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source">
+    <sys_data_source action="INSERT_OR_UPDATE">
+        <category/>
+        <connection_timeout>0</connection_timeout>
+        <connection_url>http://production12.getpriceapp.com/v6/realtime-variation/?purchase_url=https://www.amazon.com/dp/B0784Z8YQK</connection_url>
+        <connection_url_parameters/>
+        <csv_delimiter/>
+        <database_name/>
+        <database_port/>
+        <expand_node_children>false</expand_node_children>
+        <file_path>/v6/realtime-variation/?purchase_url=https://www.amazon.com/dp/B0784Z8YQK</file_path>
+        <file_retrieval_method>HTTP</file_retrieval_method>
+        <format>JSON</format>
+        <glide_keystore>false</glide_keystore>
+        <header_row>1</header_row>
+        <import_set_table_label>price_dum</import_set_table_label>
+        <import_set_table_name>x_348793_swapi_tes_price_dum</import_set_table_name>
+        <instance_name/>
+        <jdbc_password/>
+        <jdbc_server/>
+        <jdbc_user_name/>
+        <jpath_root_node>/products/products</jpath_root_node>
+        <last_run_database_field/>
+        <last_run_datetime/>
+        <ldap_target/>
+        <maximum_rows/>
+        <mid_server/>
+        <name>price_dum</name>
+        <oracle_port>1521</oracle_port>
+        <oracle_sid>orcl</oracle_sid>
+        <properties/>
+        <query>All Rows from Table</query>
+        <query_timeout>0</query_timeout>
+        <scp_authentication>Username and Password</scp_authentication>
+        <scp_password/>
+        <scp_port/>
+        <scp_server>production12.getpriceapp.com</scp_server>
+        <scp_user_name/>
+        <sheet_number>1</sheet_number>
+        <sql_statement/>
+        <ssh_keyfile_path/>
+        <sys_class_name>sys_data_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-30 13:56:30</sys_created_on>
+        <sys_id>fcb96372db4533003a02ab7dca961917</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>price_dum</sys_name>
+        <sys_package display_value="swapi tester" source="x_348793_swapi_tes">1d8486a9db4133003a02ab7dca961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="swapi tester">1d8486a9db4133003a02ab7dca961901</sys_scope>
+        <sys_update_name>sys_data_source_fcb96372db4533003a02ab7dca961917</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-30 14:10:38</sys_updated_on>
+        <table_name/>
+        <type>File</type>
+        <use_integrated_authentication>false</use_integrated_authentication>
+        <use_last_run_datetime>false</use_last_run_datetime>
+        <xpath_root_node/>
+        <zipped>false</zipped>
+    </sys_data_source>
+</record_update>

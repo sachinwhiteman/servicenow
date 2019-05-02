@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="price" max_length="40" name="x_348793_swapi_tes_price" type="collection">
+        <element label="code" max_length="40" name="code" type="string"/>
+        <element label="gender" max_length="40" name="gender" type="string"/>
+    </element>
+</database>

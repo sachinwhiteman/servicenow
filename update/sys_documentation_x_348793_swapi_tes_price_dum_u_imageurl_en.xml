@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_imageurl" label="imageUrl" language="en" table="x_348793_swapi_tes_price_dum">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_imageurl</element>
+            <help/>
+            <hint/>
+            <label>imageUrl</label>
+            <language>en</language>
+            <name>x_348793_swapi_tes_price_dum</name>
+            <plural>imageUrls</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-02 04:42:47</sys_created_on>
+            <sys_id>ab9ef3d7db0133003a02ab7dca96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>imageUrl</sys_name>
+            <sys_package display_value="swapi tester" source="x_348793_swapi_tes">1d8486a9db4133003a02ab7dca961901</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="swapi tester">1d8486a9db4133003a02ab7dca961901</sys_scope>
+            <sys_update_name>sys_documentation_x_348793_swapi_tes_price_dum_u_imageurl_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-02 04:42:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

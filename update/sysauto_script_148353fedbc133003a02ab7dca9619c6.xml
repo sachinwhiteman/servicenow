@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <name>get price data</name>
+        <run_as display_value="sachin whiteman ">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period>1970-01-01 00:00:15</run_period>
+        <run_start>2019-04-30 12:17:28</run_start>
+        <run_time>1970-01-01 08:00:00</run_time>
+        <run_type>periodically</run_type>
+        <script><![CDATA[var requestBody = "{\"hair_color\":\"black\",\"height\":\"180\",\"mass\":\"80\",\"name\":\"jayapal\"}"; 
+
+var client=new XMLHttpRequest();
+client.open("post","https://dev70630.service-now.com/api/now/table/x_348793_swapi_tes_people?sysparm_fields=name%2C%20height%2C%20mass%2C%20hair_color");
+
+client.setRequestHeader('Accept','application/json');
+client.setRequestHeader('Content-Type','application/json');
+
+//Eg. UserName="admin", Password="admin" for this code sample.
+client.setRequestHeader('Authorization', 'Basic '+btoa('admin'+':'+'admin'));
+
+client.onreadystatechange = function() { 
+	if(this.readyState == this.DONE) {
+		document.getElementById("response").innerHTML=this.status + this.response; 
+	}
+}; 
+client.send(requestBody);]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-30 12:22:51</sys_created_on>
+        <sys_id>148353fedbc133003a02ab7dca9619c6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>get price data</sys_name>
+        <sys_package display_value="swapi tester" source="x_348793_swapi_tes">1d8486a9db4133003a02ab7dca961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="swapi tester">1d8486a9db4133003a02ab7dca961901</sys_scope>
+        <sys_update_name>sysauto_script_148353fedbc133003a02ab7dca9619c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-30 12:59:36</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

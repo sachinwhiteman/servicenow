@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="price_dum" language="en" table="x_348793_swapi_tes_price_dum">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>price_dum</label>
+            <language>en</language>
+            <name>x_348793_swapi_tes_price_dum</name>
+            <plural>price_dums</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-02 04:42:47</sys_created_on>
+            <sys_id>a79ef3d7db0133003a02ab7dca96190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>price_dum</sys_name>
+            <sys_package display_value="swapi tester" source="x_348793_swapi_tes">1d8486a9db4133003a02ab7dca961901</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="swapi tester">1d8486a9db4133003a02ab7dca961901</sys_scope>
+            <sys_update_name>sys_documentation_x_348793_swapi_tes_price_dum__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-02 04:42:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

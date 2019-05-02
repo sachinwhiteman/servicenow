@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="price_dum" max_length="40" name="x_348793_swapi_tes_price_dum" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=basePrice" label="basePrice" max_length="40" name="u_baseprice" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=brandName" label="brandName" max_length="40" name="u_brandname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=code" label="code" max_length="40" name="u_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=color/variant" label="color/variant" max_length="40" name="u_color_variant" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=currency" label="currency" max_length="40" name="u_currency" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=department" label="department" max_length="40" name="u_department" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=gender" label="gender" max_length="40" name="u_gender" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=imageUrl" label="imageUrl" max_length="64" name="u_imageurl" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=memory" label="memory" max_length="40" name="u_memory" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=price" label="price" max_length="40" name="u_price" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=productIdentifier" label="productIdentifier" max_length="57" name="u_productidentifier" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=productName" label="productName" max_length="41" name="u_productname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=productUrl" label="productUrl" max_length="40" name="u_producturl" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=salePrice" label="salePrice" max_length="40" name="u_saleprice" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=size" label="size" max_length="40" name="u_size" type="string"/>
+    </element>
+</database>
